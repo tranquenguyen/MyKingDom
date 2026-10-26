@@ -71,14 +71,28 @@ This repository documents the application's interface, administrative experience
 
 ## 🛠️ Technology Stack
 
-The exact technology stack should be documented based on the repository's source files and dependency configuration.
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square" alt="EJS" />
+  <img src="https://img.shields.io/badge/Handlebars-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white" alt="Handlebars" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square" alt="Passport.js" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
+</p>
 
-| Component | Details |
+| Technology | Purpose |
 |---|---|
-| Frontend | To be confirmed from source code |
-| Backend | To be confirmed from source code |
-| Database | To be confirmed from configuration |
-| Deployment | Heroku |
+| Node.js & Express.js | Server-side application and HTTP routing |
+| PostgreSQL | Relational database |
+| EJS & Handlebars | Server-side HTML templating |
+| Passport.js | Authentication and OAuth strategies |
+| JWT | Token-based authentication |
+| bcrypt | Password hashing |
+| express-session | Session management |
+| Sass | CSS preprocessing |
+| Heroku | Application deployment |
+
 
 ## 🚀 Getting Started
 
