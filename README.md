@@ -32,38 +32,41 @@ This repository documents the application's interface, administrative experience
 ### User Interface
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/18ae52e9-25f4-4b06-9498-9cb61580b473" width="48%" alt="MyKingDom user interface screenshot 1" />
-  <img src="https://github.com/user-attachments/assets/ed3326cb-5d29-476c-8c65-5993c2e93037" width="48%" alt="MyKingDom user interface screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/18ae52e9-25f4-4b06-9498-9cb61580b473" width="45%" alt="User interface - 1" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ed3326cb-5d29-476c-8c65-5993c2e93037" width="45%" alt="User interface - 2" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/241c2265-1670-442a-82a7-b425704ce26b" width="48%" alt="MyKingDom user interface screenshot 3" />
-  <img src="https://github.com/user-attachments/assets/aae4f8e9-d10c-4988-8a66-b61f16db96d9" width="48%" alt="MyKingDom user interface screenshot 4" />
+  <img src="https://github.com/user-attachments/assets/241c2265-1670-442a-82a7-b425704ce26b" width="45%" alt="User interface - 3" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/aae4f8e9-d10c-4988-8a66-b61f16db96d9" width="45%" alt="User interface - 4" />
 </p>
 
-### Admin Interface
+### Admin Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa1eae11-5e6c-4207-ba21-fc8e5012df60" width="48%" alt="MyKingDom admin interface screenshot 1" />
-  <img src="https://github.com/user-attachments/assets/6582e7f1-3ee1-4852-bdfe-5811dd029779" width="48%" alt="MyKingDom admin interface screenshot 2" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/08137e23-f7a1-4b7f-9866-df86e0197a3b" width="70%" alt="MyKingDom admin interface screenshot 3" />
-</p>
-
-### Heroku Deployment
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ae912732-83c7-491e-81c1-40c24ed42822" width="90%" alt="Heroku deployment screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/aa1eae11-5e6c-4207-ba21-fc8e5012df60" width="45%" alt="Admin dashboard - 1" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6582e7f1-3ee1-4852-bdfe-5811dd029779" width="45%" alt="Admin dashboard - 2" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/82f054f4-41fb-40d1-8204-f7d2fe111a22" width="90%" alt="Heroku deployment screenshot 2" />
+  <img src="https://github.com/user-attachments/assets/08137e23-f7a1-4b7f-9866-df86e0197a3b" width="65%" alt="Admin dashboard - 3" />
+</p>
+
+### Deployment
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae912732-83c7-491e-81c1-40c24ed42822" width="80%" alt="Heroku deployment - 1" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/89463368-bc5b-4e71-9fe9-d62ea0a06f04" width="90%" alt="MyKingDom deployed application screenshot" />
+  <img src="https://github.com/user-attachments/assets/82f054f4-41fb-40d1-8204-f7d2fe111a22" width="80%" alt="Heroku deployment - 2" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89463368-bc5b-4e71-9fe9-d62ea0a06f04" width="90%" alt="Deployed application" />
 </p>
 
 ## 🛠️ Technology Stack
