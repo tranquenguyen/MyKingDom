@@ -25,11 +25,11 @@ This repository documents the application's interface, administrative experience
 <p align="center">
   <img src="https://github.com/user-attachments/assets/18ae52e9-25f4-4b06-9498-9cb61580b473" width="45%" alt="User interface - 1" />
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/aae4f8e9-d10c-4988-8a66-b61f16db96d9" width="45%" alt="User interface - 4" />
+  <img src="https://github.com/user-attachments/assets/241c2265-1670-442a-82a7-b425704ce26b" width="45%" alt="User interface - 3" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/241c2265-1670-442a-82a7-b425704ce26b" width="45%" alt="User interface - 3" />
+  <img src="https://github.com/user-attachments/assets/aae4f8e9-d10c-4988-8a66-b61f16db96d9" width="45%" alt="User interface - 4" />
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/ed3326cb-5d29-476c-8c65-5993c2e93037" width="45%" alt="User interface - 2" />
 </p>
