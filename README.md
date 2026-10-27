@@ -39,6 +39,7 @@ This repository documents the application's interface, administrative experience
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa1eae11-5e6c-4207-ba21-fc8e5012df60" width="45%" alt="Admin dashboard - 1" />
   &nbsp;&nbsp;
+  
   <img src="https://github.com/user-attachments/assets/08137e23-f7a1-4b7f-9866-df86e0197a3b" width="65%" alt="Admin dashboard - 3" />
 </p>
 
